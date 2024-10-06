@@ -1,0 +1,26 @@
+# ninja log v5
+27	3188	7380818277113581	CMakeFiles/oop_project.dir/resources/classes/Admin.cpp.obj	3cf2a4da9066626b
+17	2155	7380421736801165	CMakeFiles/oop_project.dir/resources/classes/Course.cpp.obj	7fae9f23f01d1fa9
+21	1473	7380818259950892	CMakeFiles/oop_project.dir/resources/classes/Teacher.cpp.obj	d7154bb7dbf6afe1
+17	1345	7380656887686281	CMakeFiles/oop_project.dir/resources/classes/User.cpp.obj	f0b6e0f124750c6a
+9	3151	7380820885966356	CMakeFiles/oop_project.dir/main.cpp.obj	feb63698b544ea82
+37	2445	7380751487354525	CMakeFiles/oop_project.dir/resources/classes/Enrollment.cpp.obj	a759f432f466661c
+6	1250	7380825867655439	CMakeFiles/oop_project.dir/resources/classes/Student.cpp.obj	62b4816634e3dc22
+1250	1719	7380825872276428	oop_project.exe	61b58d3304efe601
+8	571	7443965327090610	build.ninja	6cd78ccdf37c09a7
+39	1156	7380804898511177	CMakeFiles/oop_project.dir/resources/classes/Global.cpp.obj	cb5ffe11f5d42b51
+130	584	7380751468735385	CMakeFiles/oop_project.dir/resources/containers/courses.cpp.obj	705d906b52d4c786
+141	582	7380751468704999	CMakeFiles/oop_project.dir/resources/containers/teachers.cpp.obj	7f1b0ddcfe6500fc
+152	595	7380751468813031	CMakeFiles/oop_project.dir/resources/containers/students.cpp.obj	b1b74c3efe88612d
+76	238	7443965383763331	CMakeFiles/oop_project.dir/resources/containers/students.cpp.obj	95ec9ffe6e173ada
+72	261	7443965384049179	CMakeFiles/oop_project.dir/resources/containers/courses.cpp.obj	810deb1d4abf09f2
+81	269	7443965384150100	CMakeFiles/oop_project.dir/resources/containers/teachers.cpp.obj	92a76642b5f1785a
+31	907	7443965390509164	CMakeFiles/oop_project.dir/resources/classes/Enrollment.cpp.obj	28d0fc762ba43e8c
+42	909	7443965390509164	CMakeFiles/oop_project.dir/resources/classes/User.cpp.obj	5a8846089d92891a
+7	994	7443965391386152	CMakeFiles/oop_project.dir/resources/classes/Course.cpp.obj	1441f7de8f2590f4
+67	1102	7443965392479715	CMakeFiles/oop_project.dir/resources/classes/Global.cpp.obj	bd4c1e5cf9f27cf5
+15	1414	7443965395588937	CMakeFiles/oop_project.dir/resources/classes/Student.cpp.obj	e1c251db751a36a7
+61	1415	7443965395588937	CMakeFiles/oop_project.dir/resources/classes/Teacher.cpp.obj	830f6999ab01d607
+52	3956	7443965420999997	CMakeFiles/oop_project.dir/resources/classes/Admin.cpp.obj	e967c2c5c38a6bc5
+2	4126	7443965422697972	CMakeFiles/oop_project.dir/main.cpp.obj	e459b8d7e92e6761
+4126	4659	7443965427993024	oop_project.exe	9bb865be2a49806a
